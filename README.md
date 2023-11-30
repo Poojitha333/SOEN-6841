@@ -1,5 +1,7 @@
-Topic Analysis and Synthesis Report for SOEN 6841 - Software Project Management
+SOEN 6481 - Software Project Management
+Topic Analysis and Synthesis Report
 
-Topic - "Software Failure is Organizational Failure"
+Topic - Software Failure is Organizational Failure
 
-Name : Poojitha Bhupalli, Student ID : 40232528
+Name : Poojitha Bhupalli
+Student ID : 40232528
